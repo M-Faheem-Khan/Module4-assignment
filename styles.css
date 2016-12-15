@@ -1,0 +1,39 @@
+body{
+     margin: 50px;
+     padding: 0px;
+     color: #efefef;
+     background: rgb(85, 81, 249);
+     text-align: center;
+     font-family: monospace;
+}
+
+#name{
+     height: 28px;
+     width: 230px;
+     border: 0px;
+     border-radius: 3px;
+     padding: 7px;
+}
+
+#btn{
+     color: rgb(85, 81, 249);
+     height: 42px;
+     width: 75px;
+     border: 0px;
+     background: #efefef;
+     border-radius: 3px;
+}
+
+#btn:active{
+     color: #efefef;
+     background: rgb(85, 100, 254);
+     border: 1px solid #efefef;
+}
+
+#psst{
+     font-size: 20px;
+}
+
+#msg{
+     font-size: 25px;
+}
